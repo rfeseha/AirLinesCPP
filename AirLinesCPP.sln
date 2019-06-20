@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AirLinesCPP", "AirLinesCPP\AirLinesCPP.vcxproj", "{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Debug|x64.ActiveCfg = Debug|x64
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Debug|x64.Build.0 = Debug|x64
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Debug|x86.Build.0 = Debug|Win32
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Release|x64.ActiveCfg = Release|x64
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Release|x64.Build.0 = Release|x64
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Release|x86.ActiveCfg = Release|Win32
+		{4DA77DB9-C460-4E4F-90FD-899325EDD4E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0DBAF4-5FF0-4E63-9087-8725604543B3}
+	EndGlobalSection
+EndGlobal
